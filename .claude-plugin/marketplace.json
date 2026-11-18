@@ -14,10 +14,13 @@
       "name": "bench-wizard-frappe",
       "source": {
         "source": "github",
-        "repo": "rajitjosh/bench-wizard",
-        "path": "bench_wizard/claude-plugin"
+        "repo": "rajitjosh/bench-wizard"
       },
-      "description": "What a Frappe/ERPNext custom app must change for a new Frappe version (frappe-upgrade-impact). Lives in Bench Wizard."
+      "description": "What a Frappe/ERPNext custom app must change for a new Frappe version (frappe-upgrade-impact). Lives in Bench Wizard.",
+      "strict": false,
+      "skills": [
+        "./bench_wizard/claude-plugin/skills/frappe-upgrade-impact"
+      ]
     }
   ]
 }
