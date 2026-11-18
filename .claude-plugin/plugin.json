@@ -1,0 +1,10 @@
+{
+  "name": "rajitjosh-skills",
+  "version": "1.0.0",
+  "description": "Build polished, animated, product-grade dashboards inside a Frappe/ERPNext custom app.",
+  "author": {
+    "name": "rajitjosh"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/rajitjosh/claude-skills"
+}

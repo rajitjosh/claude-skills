@@ -1,0 +1,23 @@
+{
+  "name": "rajitjosh",
+  "description": "rajitjosh's Claude Code skills for Frappe/ERPNext.",
+  "owner": {
+    "name": "rajitjosh"
+  },
+  "plugins": [
+    {
+      "name": "rajitjosh-skills",
+      "source": "./",
+      "description": "Premium, animated dashboards in a Frappe/ERPNext custom app."
+    },
+    {
+      "name": "bench-wizard-frappe",
+      "source": {
+        "source": "github",
+        "repo": "rajitjosh/bench-wizard",
+        "path": "bench_wizard/claude-plugin"
+      },
+      "description": "What a Frappe/ERPNext custom app must change for a new Frappe version (frappe-upgrade-impact). Lives in Bench Wizard."
+    }
+  ]
+}
