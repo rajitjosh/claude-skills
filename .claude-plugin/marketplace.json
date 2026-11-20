@@ -1,6 +1,6 @@
 {
   "name": "rajitjosh",
-  "description": "rajitjosh's Claude Code skills for Frappe/ERPNext.",
+  "description": "rajitjosh's Claude Code skills for Frappe/ERPNext and product videos.",
   "owner": {
     "name": "rajitjosh"
   },
@@ -8,7 +8,7 @@
     {
       "name": "rajitjosh-skills",
       "source": "./",
-      "description": "Premium, animated dashboards in a Frappe/ERPNext custom app."
+      "description": "Frappe/ERPNext dashboards, plus walkthrough and promo videos of any web app."
     },
     {
       "name": "bench-wizard-frappe",
